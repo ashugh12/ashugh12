@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashutoshmi20191" target="blank"><img src="https://img.shields.io/twitter/follow/ashutoshmi20191?logo=twitter&style=for-the-badge" alt="ashutoshmi20191" /></a> </p>
 
-- 🌱 I’m currently learning **Pthon**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://ashutoshmishra007.netlify.app/](https://ashutoshmishra007.netlify.app/)
 
